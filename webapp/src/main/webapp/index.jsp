@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou Wang!!!, Happy Learning by enable build in PollSCM</h1>
-   <h2>configure credential manager and git password</h2>
+   <h2>configure credential manager and git password!!!!!!</h2>
 
   
 </form>
