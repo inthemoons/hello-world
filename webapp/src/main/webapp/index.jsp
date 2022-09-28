@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou Wang!!!, Happy Learning by enable build in PollSCM</h1>
-   <h2>POLL   SCMh2>
+   <h2> automcatically deploy to docker </h2>
 
   
 </form>
