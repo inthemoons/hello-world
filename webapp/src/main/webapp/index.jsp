@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou Wang!!!, Happy Learning by enable build in PollSCM</h1>
-   <h2> submit and deploy to dockerhost from dockhub!!! </h2>
+   <h2> realize CI/CD </h2>
 
   
 </form>
