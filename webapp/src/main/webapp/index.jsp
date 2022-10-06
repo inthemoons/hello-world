@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou Wang!!!, Happy Learning by enable build in PollSCM</h1>
-   <h2> realize CI/CD for Kubernetes after disable original PollSCM !!! </h2>
+   <h2> realize CI/CD for Kubernetes after disable original PollSCM 2times !!! </h2>
 
   
 </form>
